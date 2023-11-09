@@ -2,11 +2,11 @@ Docker
 
 Загрузка образа из docker hub 
 
-docker pull rachevnikita/registrationvue
+docker pull rachevnikita/registrationvue:lat2
 
 Запуск контейнера
 
-docker run -d -p 80:5173 rachevnikita/registrationvue
+docker run -d -p 80:5173 rachevnikita/registrationvue:lat2
 
 
 
